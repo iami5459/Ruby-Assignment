@@ -1,4 +1,0 @@
-Ruby-Assignment
-===============
-
-Ruby Assignment
